@@ -4,3 +4,10 @@
     box-sizing: border-box;
     font-family: "Overpass", sans-serif;
 }
+
+:root{
+  --dark-blue: #262E38;
+  --light-grey: #969FAD;
+  
+
+}
